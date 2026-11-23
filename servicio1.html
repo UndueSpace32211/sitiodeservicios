@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pastelería Dulce Hogar</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="servicio1.css">
+</head>
+<body>
+  <header>
+    <h1>Servicios Locales</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="servicio1.html" class="activo">Pastelería Dulce Hogar</a>
+      <a href="servicio2.html">Jardinería Verde Vivo</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Pastelería Dulce Hogar</h2>
+    <p>Somos una pastelería artesanal que prepara tortas y postres por encargo. Usamos ingredientes frescos y cada pedido se elabora el mismo día de la entrega.</p>
+
+    <section class="galeria">
+      <figure>
+        <img src="img/torta1.svg" alt="Torta de chocolate">
+        <figcaption>Torta de chocolate</figcaption>
+      </figure>
+      <figure>
+        <img src="img/torta2.svg" alt="Torta de frutas">
+        <figcaption>Torta de frutas</figcaption>
+      </figure>
+    </section>
+
+    <h3>Lista de precios</h3>
+    <table>
+      <thead>
+        <tr><th>Producto</th><th>Porciones</th><th>Precio (Bs)</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Torta de chocolate</td><td>12</td><td>120</td></tr>
+        <tr><td>Torta de frutas</td><td>12</td><td>110</td></tr>
+        <tr><td>Torta tres leches</td><td>16</td><td>150</td></tr>
+        <tr><td>Docena de cupcakes</td><td>12</td><td>90</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Calcula tu pedido</h3>
+    <label>Producto:
+      <select id="producto">
+        <option value="120">Torta de chocolate</option>
+        <option value="110">Torta de frutas</option>
+        <option value="150">Torta tres leches</option>
+        <option value="90">Docena de cupcakes</option>
+      </select>
+    </label>
+    <label>Cantidad:
+      <input type="number" id="cantidad" value="1" min="1">
+    </label>
+    <button id="btnCalcular">Calcular</button>
+    <p id="resultado"></p>
+
+    <h3>Cómo pedir</h3>
+    <ol>
+      <li>Elige el producto de la lista.</li>
+      <li>Nos escribes por WhatsApp con 2 días de anticipación.</li>
+      <li>Confirmamos el pedido y recoges o te lo llevamos.</li>
+    </ol>
+  </main>
+
+  <footer>
+    <p>Proyecto universitario - Universidad del Valle</p>
+  </footer>
+
+  <script src="servicio1.js"></script>
+</body>
+</html>
