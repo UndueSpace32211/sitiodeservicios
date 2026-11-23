@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400' width='600' height='400'><rect width='600' height='400' fill='#eef7ee'/><ellipse cx='300' cy='340' rx='200' ry='22' fill='#bbb'/><ellipse cx='300' cy='334' rx='200' ry='20' fill='#eee'/>
+<rect x='150' y='235' width='300' height='95' rx='8' fill='#f7d794'/>
+<rect x='150' y='270' width='300' height='14' fill='#fff8e7'/>
+<rect x='150' y='225' width='300' height='25' rx='10' fill='#fff8e7'/>
+<circle cx='200' cy='215' r='20' fill='#e74c3c'/><circle cx='200' cy='208' r='4' fill='#2ecc71'/>
+<circle cx='255' cy='210' r='18' fill='#8e44ad'/><circle cx='305' cy='212' r='18' fill='#8e44ad'/>
+<circle cx='355' cy='210' r='20' fill='#e74c3c'/><circle cx='355' cy='203' r='4' fill='#2ecc71'/>
+<circle cx='405' cy='215' r='17' fill='#f39c12'/>
+<circle cx='230' cy='235' r='9' fill='#2980b9'/><circle cx='330' cy='235' r='9' fill='#2980b9'/><circle cx='380' cy='235' r='9' fill='#2980b9'/>
+<text x='300' y='385' font-family='Arial' font-size='22' text-anchor='middle' fill='#3a5a3a'>Torta de frutas</text></svg>

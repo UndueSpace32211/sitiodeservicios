@@ -1,0 +1,7 @@
+.galeria { display: flex; gap: 15px; flex-wrap: wrap; }
+.galeria figure { flex: 1 1 250px; margin: 0; }
+.galeria figcaption { text-align: center; font-style: italic; }
+
+label { display: inline-block; margin: 5px 10px 5px 0; }
+button { padding: 6px 12px; cursor: pointer; }
+#resultado { font-weight: bold; }

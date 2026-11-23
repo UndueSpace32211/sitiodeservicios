@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400' width='600' height='400'><rect width='600' height='400' fill='#fdf1e3'/><ellipse cx='300' cy='340' rx='200' ry='22' fill='#bbb'/><ellipse cx='300' cy='334' rx='200' ry='20' fill='#eee'/>
+<rect x='150' y='240' width='300' height='90' rx='8' fill='#5b3a29'/>
+<rect x='150' y='268' width='300' height='12' fill='#f5e6c8'/>
+<rect x='170' y='170' width='260' height='75' rx='8' fill='#6e4630'/>
+<rect x='170' y='200' width='260' height='12' fill='#f5e6c8'/>
+<path d='M165 170 Q300 120 435 170 L435 190 Q420 215 400 190 Q380 225 360 190 Q340 220 320 190 Q300 225 280 190 Q260 220 240 190 Q220 225 200 190 Q185 215 165 190 Z' fill='#3b2216'/>
+<circle cx='230' cy='150' r='12' fill='#c0392b'/><circle cx='300' cy='140' r='12' fill='#c0392b'/><circle cx='370' cy='150' r='12' fill='#c0392b'/>
+<rect x='296' y='95' width='8' height='30' fill='#f4d03f'/><ellipse cx='300' cy='90' rx='6' ry='10' fill='#e67e22'/>
+<text x='300' y='385' font-family='Arial' font-size='22' text-anchor='middle' fill='#5b3a29'>Torta de chocolate</text></svg>
